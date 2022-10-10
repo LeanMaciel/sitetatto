@@ -5,7 +5,7 @@
         <div class="principal">
           <header>
           <h1 class="titulo-principal">TATUAGEM E SEUS ESTILOS </h1>
-          
+
       </header>
         <link rel="stylesheet" href="style.css">
     </head>
@@ -14,7 +14,8 @@
 
 <h2 class="titulo-centralizado">Old School</h2>
 
-  <img src="old.jpeg" height="400px" width="350px">
+  <img src="old.jpeg" height="400px" width="350px">  <img src="old2.jpeg" height="400px" width="350px">
+
 
 <p><strong></strong>  As tattoos Old School, surgiram a partir de um jovem marinheiro americano, conhecido como ”Sailor Jerry”
  ou oficialmente conhecido como Norman Collins, (1911- 1973), seu nome de registro em cartório.</p>
