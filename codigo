@@ -1,16 +1,28 @@
 <!DOCTYPE html>
+<html>
+ <head>
+  <style>
+    body {
+  background-color: #808080;
+}
+ </style>
+  </head>
+   <body>
+
+
+<!DOCTYPE html>
 <html lang="pt-br">
     <head>
-        <meta charset="UTF-8">
+      <meta charset="UTF-8">
         <div class="principal">
-          <header>
-          <h1 class="titulo-principal">TATUAGEM E SEUS ESTILOS </h1>
+         <header>
+           <h1 class="titulo-principal">TATUAGEM E SEUS ESTILOS </h1>
 
       </header>
         <link rel="stylesheet" href="style.css">
-    </head>
+          </head>
 
-    <body>
+             <body>
 
 <h2 class="titulo-centralizado">Old School</h2>
 
